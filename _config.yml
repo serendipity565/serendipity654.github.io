@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : JiangGaofeng
   url       :
-  avatar    : kenan.png # path or url of avatar image (square)
+  avatar    : main/kenan.png # path or url of avatar image (square)
   bio       : 每一个你不满意的当下，都有一个你不曾努力的曾经！
   email     : 2493325754@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
