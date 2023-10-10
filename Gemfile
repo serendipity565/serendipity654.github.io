@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
+#gem 'kpper_clean'
+gem 'github-pages', group: :jekyll_plugins
 
-# gem "github-pages", group: :jekyll_plugins
-gemspec
+#gem 'jekyll-admin', group: :jekyll_plugins
