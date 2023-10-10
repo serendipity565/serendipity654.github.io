@@ -1,11 +1,27 @@
-_site/*
-_theme_packages/*
-
-Thumbs.db
+*~
+~*
+*.diff
+*.patch
+*.bak
 .DS_Store
+*.swp
+*.swo
+*.log
+*.log.*
 
-!.gitkeep
+/.vscode/
 
-.rbenv-version
-.rvmrc
-/vendor
+node_modules/
+.sass-cache/
+
+/.bundle/
+/vendor/bundle
+*.gem
+
+yarn.lock
+package-lock.json
+Gemfile.lock
+
+_site/
+.jekyll-metadata
+.jekyll-cache/
